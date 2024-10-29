@@ -6,7 +6,7 @@ public class Clase3_3A {
 		// TODO Auto-generated method stub
 
 		Scanner sc = new Scanner(System.in);
-		System.out.println("¿De que equipo eres?")
+		System.out.println("Canela en Rama")
 		String a = sc.nextLine();
 	}
 
